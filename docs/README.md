@@ -15,5 +15,6 @@ A graphical tool for analyzing simply supported beams with a point load, support
 
 ## Credits 07-27-2025 (1° Edition)
 - Felix Alonso Quiroz Chavez (Owner Faquir Engineering S.A.C) 
-- Grok 3 
-- ChatGPT 
+- Grok 3 (https://grok.com/)
+- ChatGPT (https://chatgpt.com/)
+- Visual Studio Code (https://code.visualstudio.com/)

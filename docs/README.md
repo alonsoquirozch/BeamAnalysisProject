@@ -1,17 +1,17 @@
-# Beam Analysis Tool
+# Faquir Engineering Beam Analysis Tool
 
-A graphical tool for analyzing simply supported beams with a point load, supporting MKS, Imperial, and Americano unit systems. It includes visualization of shear and moment diagrams.
+**Welcome to the Beam Analysis Tool by Faquir Engineering!**
 
-## Features
-- Calculate reactions and moments for a simply supported beam.
-- Switch between MKS, Imperial, and Americano unit systems.
-- Export results to a text file.
-- Visualize shear and moment diagrams.
+This professional-grade Python application enables structural engineers to perform precise beam analysis, supporting MKS, Imperial, and Americano unit systems. Key features include:
+- Calculation of reactions and moments for simply supported beams.
+- Visualization of shear and moment diagrams.
+- Exportable results for reporting.
+- Open-source and customizable for your projects.
 
-## Installation
+## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BeamAnalysisProject.git
+   git clone https://github.com/FaquirEngineering/BeamAnalysisProject.git
 
 ## Credits 07-27-2025 (1° Edition)
 - Felix Alonso Quiroz Chavez (Owner Faquir Engineering S.A.C) 

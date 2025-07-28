@@ -2,7 +2,7 @@
 
 **Welcome to the Beam Analysis Tool by Faquir Engineering!**
 
-![Beam Analysis Tool Demo](docs/screenshot.png)
+![Beam Analysis Tool Demo](screenshot.png)
 
 This professional-grade Python application enables structural engineers to perform precise beam analysis, supporting MKS, Imperial, and Americano unit systems. Key features include:
 - Calculation of reactions and moments for simply supported beams.
